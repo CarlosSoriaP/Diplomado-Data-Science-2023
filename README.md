@@ -1,2 +1,2 @@
 # Diplomado-Data-Science-2023
-Información sobre curso de hyton
+Información sobre curso de Phyton
